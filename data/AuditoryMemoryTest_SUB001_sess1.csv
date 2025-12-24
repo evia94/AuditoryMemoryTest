@@ -1,0 +1,6 @@
+timestamp,subject_id,session,block,trial_num,load,snr,digits,probe,is_match,response,is_correct,rt
+2025-12-24 20:07:53.565646,SUB001,1,Practice,1,2,10,"[6, 3]",6,True,Yes,True,1.097048282623291
+2025-12-24 20:07:53.565646,SUB001,1,Main,1,2,10,"[2, 5]",5,True,Yes,True,1.3096740245819092
+2025-12-24 20:07:53.565646,SUB001,1,Main,2,2,10,"[7, 8]",8,True,Yes,True,1.2487242221832275
+2025-12-24 20:07:53.565646,SUB001,1,Main,3,2,10,"[1, 5]",1,True,Yes,True,1.7573182582855225
+2025-12-24 20:07:53.565646,SUB001,1,Main,4,2,10,"[7, 4]",6,False,No,True,1.9657549858093262

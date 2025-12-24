@@ -1,0 +1,6 @@
+streamlit
+gTTS
+pydub
+numpy
+scipy
+pandas
