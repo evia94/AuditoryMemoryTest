@@ -4,3 +4,4 @@ pydub
 numpy
 scipy
 pandas
+pyaudioop
